@@ -197,10 +197,7 @@
                             <i class="fa fa-linkedin fa-fw"></i> <span class="network-name">Linkedin</span></a>
                         </li>
                      </ul>
-                </div>
-                <div class="col-lg-4"></div>
-                <div class="col-lg-8">
-                     <ul class="list-inline baner-social-buttons">
+                     <ul class="list-inline banner-social-buttons">
                          <li><a href="http://www.slideshare.net/hashikiikuwow" class="btn btn-default btn-lg">
                             <i class="fa fa-rss fa-desktop"></i> <span class="network-name">Slideshare</span></a>
                          </li>
