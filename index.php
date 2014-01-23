@@ -62,14 +62,34 @@
                         <h3>Top page</h3>
                         <hr class="intro-divider">
                         <ul class="list-inline intro-social-buttons">
-                            <li><a href="http://www.ikuwow.com/blog/" class="btn btn-default btn-lg"><i class="fa fa-rss fa-fw"></i> <span class="network-name">Blog</span></a>
-                            <li><a href="https://twitter.com/ikuwow" class="btn btn-default btn-lg"><i class="fa fa-twitter fa-fw"></i> <span class="network-name">Twitter</span></a>
+                            <li><a href="http://www.ikuwow.com/blog/" class="btn btn-default btn-lg">
+                            <i class="fa fa-rss fa-fw"></i> <span class="network-name">Blog</span></a>
                             </li>
-                            <li><a href="https://www.facebook.com/hashiki.ikuwow" class="btn btn-default btn-lg"><i class="fa fa-facebook fa-fw"></i> <span class="network-name">Facebook</span></a>
+                            <li><a href="https://twitter.com/ikuwow" class="btn btn-default btn-lg">
+                            <i class="fa fa-twitter fa-fw"></i> <span class="network-name">Twitter</span></a>
                             </li>
-                            <li><a href="https://github.com/ikuwow/" class="btn btn-default btn-lg"><i class="fa fa-github fa-fw"></i> <span class="network-name">Github</span></a>
+                            <li><a href="https://www.facebook.com/hashiki.ikuwow" class="btn btn-default btn-lg">
+                                <i class="fa fa-facebook fa-fw"></i> <span class="network-name">Facebook</span></a>
                             </li>
-                            <li><a href="http://www.linkedin.com/pub/幾夫-出川/85/aba/290" class="btn btn-default btn-lg"><i class="fa fa-linkedin fa-fw"></i> <span class="network-name">Linkedin</span></a>
+                            <li><a href="https://github.com/ikuwow/" class="btn btn-default btn-lg">
+                                <i class="fa fa-github fa-fw"></i> <span class="network-name">Github</span></a>
+                            </li>
+                            <li><a href="http://www.linkedin.com/pub/幾夫-出川/85/aba/290" class="btn btn-default btn-lg">
+                                <i class="fa fa-linkedin fa-fw"></i> <span class="network-name">Linkedin</span></a>
+                            </li>
+                        </ul>
+                        <ul class="list-inline intro-social-buttons">
+                            <li><a href="http://www.slideshare.net/hashikiikuwow" class="btn btn-default btn-lg">
+                            <i class="fa fa-rss fa-desktop"></i> <span class="network-name">Slideshare</span></a>
+                            </li>
+                            <li><a href="http://b.hatena.ne.jp/ikuwow/" class="btn btn-default btn-lg">
+                            <i class="fa fa-question fa-fw"></i> <span class="network-name">Hatena</span></a>
+                            </li>
+                            <li><a href="http://book.akahoshitakuya.com/u/382113" class="btn btn-default btn-lg">
+                                <i class="fa fa-book fa-fw"></i> <span class="network-name">Bookmeter</span></a>
+                            </li>
+                            <li><a href="http://ikuwow.tumblr.com" class="btn btn-default btn-lg">
+                                <i class="fa fa-tumblr fa-fw"></i> <span class="network-name">Tumblr</span></a>
                             </li>
                         </ul>
                     </div>
@@ -161,16 +181,39 @@
                 </div>
                 <div class="col-lg-8">
                     <ul class="list-inline banner-social-buttons">
-                        <li><a href="http://www.ikuwow.com/blog/" class="btn btn-default btn-lg"><i class="fa fa-rss fa-fw"></i> <span class="network-name">Blog</span></a>
-                        <li><a href="https://twitter.com/ikuwow" class="btn btn-default btn-lg"><i class="fa fa-twitter fa-fw"></i> <span class="network-name">Twitter</span></a>
+                        <li><a href="http://www.ikuwow.com/blog/" class="btn btn-default btn-lg">
+                            <i class="fa fa-rss fa-fw"></i> <span class="network-name">Blog</span></a>
                         </li>
-                        <li><a href="https://www.facebook.com/hashiki.ikuwow" class="btn btn-default btn-lg"><i class="fa fa-facebook fa-fw"></i> <span class="network-name">Facebook</span></a>
+                        <li><a href="https://twitter.com/ikuwow" class="btn btn-default btn-lg">
+                            <i class="fa fa-twitter fa-fw"></i> <span class="network-name">Twitter</span></a>
                         </li>
-                        <li><a href="https://github.com/ikuwow" class="btn btn-default btn-lg"><i class="fa fa-github fa-fw"></i> <span class="network-name">Github</span></a>
+                        <li><a href="https://www.facebook.com/hashiki.ikuwow" class="btn btn-default btn-lg">
+                            <i class="fa fa-facebook fa-fw"></i> <span class="network-name">Facebook</span></a>
                         </li>
-                        <li><a href="http://www.linkedin.com/pub/幾夫-出川/85/aba/290" class="btn btn-default btn-lg"><i class="fa fa-linkedin fa-fw"></i> <span class="network-name">Linkedin</span></a>
+                        <li><a href="https://github.com/ikuwow" class="btn btn-default btn-lg">
+                            <i class="fa fa-github fa-fw"></i> <span class="network-name">Github</span></a>
                         </li>
-                    </ul>
+                        <li><a href="http://www.linkedin.com/pub/幾夫-出川/85/aba/290" class="btn btn-default btn-lg">
+                            <i class="fa fa-linkedin fa-fw"></i> <span class="network-name">Linkedin</span></a>
+                        </li>
+                     </ul>
+                </div>
+                <div class="col-lg-4"></div>
+                <div class="col-lg-8">
+                     <ul class="list-inline baner-social-buttons">
+                         <li><a href="http://www.slideshare.net/hashikiikuwow" class="btn btn-default btn-lg">
+                            <i class="fa fa-rss fa-desktop"></i> <span class="network-name">Slideshare</span></a>
+                         </li>
+                         <li><a href="http://b.hatena.ne.jp/ikuwow/" class="btn btn-default btn-lg">
+                            <i class="fa fa-question fa-fw"></i> <span class="network-name">Hatena</span></a>
+                         </li>
+                         <li><a href="http://book.akahoshitakuya.com/u/382113" class="btn btn-default btn-lg">
+                             <i class="fa fa-book fa-fw"></i> <span class="network-name">Bookmeter</span></a>
+                         </li>
+                         <li><a href="http://ikuwow.tumblr.com" class="btn btn-default btn-lg">
+                             <i class="fa fa-tumblr fa-fw"></i> <span class="network-name">Tumblr</span></a>
+                         </li>
+                     </ul>
                 </div>
             </div>
 
