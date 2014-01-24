@@ -58,7 +58,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="intro-message">
-                        <h1>ikuwow.com</h1>
+                        <h1>www.ikuwow.com</h1>
                         <h3>Top page</h3>
                         <hr class="intro-divider">
                         <ul class="list-inline intro-social-buttons">
