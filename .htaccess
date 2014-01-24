@@ -1,0 +1,5 @@
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^(ikuwow\.com)(:80)? [NC]
+RewriteRule ^(.*) http://www.ikuwow.com/$1 [R=301,L]
+RewriteCond %{THE_REQUEST} ^.*/index.php
+RewriteRule ^(.*)index.php$ http://www.ikuwow.com/$1 [R=301,L]
