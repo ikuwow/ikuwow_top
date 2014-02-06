@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="ゐくを ikuwow">
+    <meta name="description" content="ゐくを ikuwow 出川 幾夫 トップページ ホームページ ポートフォリオ">
     <meta name="author" content="ゐくを ikuwow">
 
     <title>www.ikuwow.com</title>
@@ -74,9 +74,14 @@
                             <li><a href="https://github.com/ikuwow/" class="btn btn-default btn-lg">
                                 <i class="fa fa-github fa-fw"></i> <span class="network-name">Github</span></a>
                             </li>
+                            <li><a href="http://qiita.com/ikuwow" class="btn btn-default btn-lg">
+                                <i class="fa fa-exclamation fa-fw"></i> <span class="network-name">Qiita</span></a>
+                            </li>
+                            <?php /*
                             <li><a href="http://www.linkedin.com/pub/幾夫-出川/85/aba/290" class="btn btn-default btn-lg">
                                 <i class="fa fa-linkedin fa-fw"></i> <span class="network-name">Linkedin</span></a>
                             </li>
+                             */ ?>
                         </ul>
                         <ul class="list-inline intro-social-buttons">
                             <li><a href="http://www.slideshare.net/hashikiikuwow" class="btn btn-default btn-lg">
@@ -193,9 +198,14 @@
                         <li><a href="https://github.com/ikuwow" class="btn btn-default btn-lg">
                             <i class="fa fa-github fa-fw"></i> <span class="network-name">Github</span></a>
                         </li>
+                        <li><a href="http://qiita.com/ikuwow" class="btn btn-default btn-lg">
+                            <i class="fa fa-exclamation fa-fw"></i> <span class="network-name">Qiita</span></a>
+                        </li>
+                        <?php /*
                         <li><a href="http://www.linkedin.com/pub/幾夫-出川/85/aba/290" class="btn btn-default btn-lg">
                             <i class="fa fa-linkedin fa-fw"></i> <span class="network-name">Linkedin</span></a>
                         </li>
+                         */ ?>
                      </ul>
                      <ul class="list-inline banner-social-buttons">
                          <li><a href="http://www.slideshare.net/hashikiikuwow" class="btn btn-default btn-lg">
