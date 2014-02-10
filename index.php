@@ -247,7 +247,7 @@
                         <li class="to_contact"><a href="">Contact</a>
                         </li>
                     </ul>
-                    <p class="copyright text-muted small">Copyright &copy; ゐくを <?php echo date('Y');?>. All Rights Reserved</p>
+                    <p class="copyright text-muted small">Copyright &copy; ゐくを <?php echo date('Y');?>. All Rights Reserved<a href="https://plus.google.com/102989205061452693348?rel=author">.</a></p>
                 </div>
             </div>
         </div>
