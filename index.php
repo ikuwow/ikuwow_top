@@ -4,8 +4,9 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="ゐくを ikuwow 出川 幾夫 トップページ ホームページ ポートフォリオ">
-    <meta name="author" content="ゐくを ikuwow">
+    <meta name="keywords" content="ゐくを,ikuwow,Ikuo Degawa,トップページ,ホームページ,ポートフォリオ">
+    <meta name="description" content="ゐくを(ikuwow)のトップページ。ブログやFacebook,Twitterなど、ゐくをの情報発信源へのリンクをまとめています。">
+    <meta name="author" content="Ikuo Degawa">
 
     <title>www.ikuwow.com</title>
 
@@ -247,7 +248,7 @@
                         <li class="to_contact"><a href="">Contact</a>
                         </li>
                     </ul>
-                    <p class="copyright text-muted small">Copyright &copy; ゐくを <?php echo date('Y');?>. All Rights Reserved<a href="https://plus.google.com/102989205061452693348?rel=author">.</a></p>
+                    <p class="copyright text-muted small">Copyright &copy; ゐくを(ikuwow) <?php echo date('Y');?>. All Rights Reserved<a href="https://plus.google.com/102989205061452693348?rel=author">.</a> (By Ikuo Degawa)</p>
                 </div>
             </div>
         </div>
