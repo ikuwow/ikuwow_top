@@ -8,6 +8,9 @@
     <meta name="description" content="ゐくを(ikuwow)のトップページ。ブログやFacebook,Twitterなど、ゐくをの情報発信源へのリンクをまとめています。">
     <meta name="author" content="Ikuo Degawa">
 
+    <!-- Google authorship -->
+    <link rel="author" href="https://plus.google.com/102989205061452693348/"/>
+
     <title>www.ikuwow.com</title>
 
     <!-- Bootstrap core CSS -->
@@ -248,7 +251,7 @@
                         <li class="to_contact"><a href="">Contact</a>
                         </li>
                     </ul>
-                    <p class="copyright text-muted small">Copyright &copy; ゐくを(ikuwow) <?php echo date('Y');?>. All Rights Reserved<a href="https://plus.google.com/102989205061452693348?rel=author">.</a> (By Ikuo Degawa)</p>
+                    <p class="copyright text-muted small">Copyright &copy; ゐくを(ikuwow) <?php echo date('Y');?>. All Rights Reserved. (By <a href="https://plus.google.com/102989205061452693348?rel=author">Ikuo Degawa</a>)</p>
                 </div>
             </div>
         </div>
