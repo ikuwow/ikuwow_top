@@ -1,6 +1,10 @@
 RewriteEngine on
-RewriteCond %{HTTP_HOST} ^(ikuwow\.com)(:80)? [NC]
+
+# ドメインをwwwに統一
+# RewriteCond %{HTTP_HOST} ^(ikuwow\.com)(:80)? [NC]
+RewriteCond %{HTTP_HOST} ^(?!.*www\.)ikuwow\.com [NC]
 RewriteRule ^(.*) http://www.ikuwow.com/$1 [R=301,L]
+
 RewriteCond %{THE_REQUEST} ^.*/index.php
 RewriteRule ^(.*)index.php$ http://www.ikuwow.com/$1 [R=301,L]
 
