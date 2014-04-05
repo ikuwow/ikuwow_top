@@ -66,7 +66,7 @@
                         <h3>Top page</h3>
                         <hr class="intro-divider">
                         <ul class="list-inline intro-social-buttons">
-                            <li><a href="http://www.ikuwow.com/blog/" class="btn btn-default btn-lg">
+                            <li><a href="/blog" class="btn btn-default btn-lg">
                             <i class="fa fa-rss fa-fw"></i> <span class="network-name">Blog</span></a>
                             </li>
                             <li><a href="https://twitter.com/ikuwow" class="btn btn-default btn-lg">
@@ -190,7 +190,7 @@
                 </div>
                 <div class="col-lg-8">
                     <ul class="list-inline banner-social-buttons">
-                        <li><a href="http://www.ikuwow.com/blog/" class="btn btn-default btn-lg">
+                        <li><a href="/blog" class="btn btn-default btn-lg">
                             <i class="fa fa-rss fa-fw"></i> <span class="network-name">Blog</span></a>
                         </li>
                         <li><a href="https://twitter.com/ikuwow" class="btn btn-default btn-lg">
