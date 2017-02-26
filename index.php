@@ -72,7 +72,7 @@
                             <li><a href="https://twitter.com/ikuwow" class="btn btn-default btn-lg">
                             <i class="fa fa-twitter fa-fw"></i> <span class="network-name">Twitter</span></a>
                             </li>
-                            <li><a href="https://www.facebook.com/hashiki.ikuwow" class="btn btn-default btn-lg">
+                            <li><a href="https://www.facebook.com/ikuwow" class="btn btn-default btn-lg">
                                 <i class="fa fa-facebook fa-fw"></i> <span class="network-name">Facebook</span></a>
                             </li>
                             <li><a href="https://github.com/ikuwow/" class="btn btn-default btn-lg">
@@ -196,7 +196,7 @@
                         <li><a href="https://twitter.com/ikuwow" class="btn btn-default btn-lg">
                             <i class="fa fa-twitter fa-fw"></i> <span class="network-name">Twitter</span></a>
                         </li>
-                        <li><a href="https://www.facebook.com/hashiki.ikuwow" class="btn btn-default btn-lg">
+                        <li><a href="https://www.facebook.com/ikuwow" class="btn btn-default btn-lg">
                             <i class="fa fa-facebook fa-fw"></i> <span class="network-name">Facebook</span></a>
                         </li>
                         <li><a href="https://github.com/ikuwow" class="btn btn-default btn-lg">
